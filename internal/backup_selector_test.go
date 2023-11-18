@@ -2,12 +2,13 @@ package internal_test
 
 import (
 	"bytes"
-	"github.com/wal-g/wal-g/internal"
-	"github.com/wal-g/wal-g/testtools"
-	"github.com/wal-g/wal-g/utility"
 	"path"
 	"testing"
 	"time"
+
+	"github.com/wal-g/wal-g/internal"
+	"github.com/wal-g/wal-g/testtools"
+	"github.com/wal-g/wal-g/utility"
 
 	"github.com/stretchr/testify/assert"
 )
